@@ -22,4 +22,4 @@ The Snippet Scoreboard: A bar chart that changes based on your "Vibe" selection.
 
 🔴 Button 0 (Bad Reviews): Shows the top phrases from people who did not like the movie.
 
-![IMDB Dashboard Screenshot](IMDB_Dashboard.png)
+[IMDB Dashboard Screenshot](IMDB_Dashboard.png)
