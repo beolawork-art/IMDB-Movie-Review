@@ -1,6 +1,7 @@
 🎬 IMDB Movie Review "Vibe Check" Dashboard
 
 📝 Project Overview
+
 I built a full-scale data project to analyze 50,000 movie reviews from IMDB. This project shows how people’s feelings (sentiment) can be tracked using data.
 
 🛠️ The "Pro" Tool Stack
