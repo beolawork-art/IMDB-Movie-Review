@@ -1,4 +1,5 @@
 🎬 IMDB Movie Review "Vibe Check" Dashboard
+
 📝 Project Overview
 I built a full-scale data project to analyze 50,000 movie reviews from IMDB. This project shows how people’s feelings (sentiment) can be tracked using data.
 
@@ -21,4 +22,4 @@ The Snippet Scoreboard: A bar chart that changes based on your "Vibe" selection.
 
 🔴 Button 0 (Bad Reviews): Shows the top phrases from people who did not like the movie.
 
-![IMDB Dashboard Screenshot](IMDB_dashboard.png)
+![IMDB Dashboard Screenshot](IMDB_Dashboard.png)
